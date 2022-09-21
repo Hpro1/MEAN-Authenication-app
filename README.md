@@ -1,4 +1,4 @@
-# MEAN-Authenication-app
+# MEAN-Authenication-app - Daniel Hadaya, LUT
 
 Full-Stack README file
 
